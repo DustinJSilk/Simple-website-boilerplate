@@ -1,0 +1,11 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"../../src/scss/base.scss",
+		"../../src/scss/_include-media.scss",
+		"../../src/scss/_variables.scss"
+	],
+	"mappings": "AAGA,KAAK,CAAC;EACL,KAAK,EAAE,IAAK,GACZ",
+	"names": []
+}
